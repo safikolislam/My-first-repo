@@ -1,4 +1,6 @@
 div{
-    background:#ff1;
+    background:tomato;
     padding:10px;
+    margin-bottom:10px;
+    border:5px solid;
 }
